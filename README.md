@@ -29,7 +29,7 @@
         <img src="./assets/cyberpolis-home.webp" width="100%" alt="Cyberpolis AI homepage">
       </a>
       <br><br>
-      <strong><a href="https://cyberpolisai.com/">Cyberpolis AI ↗</a></strong>
+      <strong><a href="https://www.cyberpolisai.com/">Cyberpolis AI ↗</a></strong>
       <p>An interactive learning platform where students build real-world machine-learning projects through guided lessons and hands-on modules.</p>
       <p><code>Machine Learning</code> <code>Interactive Learning</code> <code>TypeScript</code> <code>Angular</code></p>
     </td>
